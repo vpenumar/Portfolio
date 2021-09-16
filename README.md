@@ -19,7 +19,6 @@ In this HackerRank challenge, a model is to be built to predict house prices usi
 R (using lm() function)
 Python (using numpy and sklearn)_
 Octave/Matlab (using Normal Equation)
-https://github.com/jordancheah/MultipleLinearRegression-HackerRankPredictHousePrices
 
 Classification Tree and Random Forest in R
 The goal of the project is to predict the manner in which people did the exercise. Two models, Fitting Single Tree and Random Forest, are used and results are cross-validated.
